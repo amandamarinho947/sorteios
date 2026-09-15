@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "nomeJogador": "João Silva",
+    "quantidadePartidas": 3,
+    "tentativas": [
+      [1, 0, 1, 0, 1],
+      [0, 1, 0, 1, 0],
+      [1, 1, 0, 1, 1]
+    ],
+    "sorteioPremiado": [1, 0, 1, 0, 1]
+  },
+  {
+    "id": 2,
+    "nomeJogador": "Maria Oliveira",
+    "quantidadePartidas": 2,
+    "tentativas": [
+      [1, 1, 0, 0, 1],
+      [0, 0, 1, 1, 0]
+    ],
+     "sorteioPremiado": [1, 0, 1, 0, 1]
+
+
+  },
+  {
+    "id": 3,
+    "nomeJogador": "Carlos Santos",
+    "quantidadePartidas": 4,
+    "tentativas": [
+      [1, 0, 1, 1, 0],
+      [0, 1, 0, 0, 1],
+      [1, 1, 1, 0, 0],
+      [0, 0, 0, 1, 1]
+    ],
+     "sorteioPremiado": [1, 0, 1, 0, 1]
+
+
+  },
+  {
+    "id": 4,
+    "nomeJogador": "Ana Costa",
+    "quantidadePartidas": 1,
+    "tentativas": [
+      [1, 0, 0, 1, 1]
+    ],
+      "sorteioPremiado": [1, 0, 1, 0, 1]
+
+
+  },
+  {
+    "id": 5,
+    "nomeJogador": "Pedro Mendes",
+    "quantidadePartidas": 3,
+    "tentativas": [
+      [0, 1, 1, 0, 1],
+      [1, 0, 0, 1, 0],
+      [1, 1, 0, 0, 1]
+    ],
+    "sorteioPremiado": [1, 0, 1, 0, 1]
+
+
+  },
+  {
+    "id": 6,
+    "nomeJogador": "Fernanda Lima",
+    "quantidadePartidas": 2,
+    "tentativas": [
+      [1, 1, 0, 1, 0],
+      [0, 0, 1, 0, 1]
+    ],
+     "sorteioPremiado": [1, 0, 1, 0, 1]
+
+
+  }
+]
